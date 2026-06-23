@@ -37,3 +37,5 @@ To compile the executable locally via MSBuild or Microsoft Visual Studio:
 1. Launch `Cromekks Inspector` with administrative execution rights to ensure proper system process handle privileges.
 2. Enter the target process numeric Identifier (`PID`) into the Target Control control box.
 3. Click **Attach & Scan Suite** to let the tool process the operational modules and parse memory diagnostic tables.
+
+Made with my - [imgui-external-base](https://github.com/cromekk/imgui-external-base) — C++ / ImGui project base
