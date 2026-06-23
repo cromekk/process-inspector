@@ -1,0 +1,39 @@
+.vs/
+.agents/
+
+# Build outputs
+x64/
+Debug/
+Release/
+bin/
+obj/
+
+# Visual Studio user/local files
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+*.opendb
+*.ipch
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+
+# C/C++ build artifacts
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.iobj
+*.ipdb
+*.recipe
+*.log
+*.tlog
+
+# Runtime/editor state
+imgui.ini
